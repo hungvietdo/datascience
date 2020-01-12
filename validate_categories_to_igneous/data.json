@@ -1,0 +1,205 @@
+{
+    "general": {
+      "manufacturer": "CATERPILLAR",
+      "model": "336EH",
+      "year": 2015,
+      "msrp": "333",
+      "category": "Excavators",
+      "subcategory": "Excavators",
+      "description": "",
+      "shortDescription": "",
+      "parentId": 0,
+      "childCount": 0,
+      "countries": [],
+      "oem": "",
+      "condition": "Used",
+      "stockNumber": "",
+      "identification": {
+        "value": "",
+        "type": "Serial"
+      },
+      "odometer": {
+        "value": "",
+        "type": "Hours"
+      },
+      "size": "Standard",
+      "movementType": "Tracked",
+      "trim": "",
+      "class": "Class 8 (GVW 33,001 lbs or more)",
+      "dealerId": 9052
+    },
+    "meta": {
+      "forSale": true,
+      "forRent": false,
+      "retailPrice": "",
+      "retailPriceLabel": "Retail Price",
+      "displayPriceChecked": false,
+      "rentalDailyRate": "",
+      "rentalWeeklyRate": "",
+      "rentalMonthlyRate": "",
+      "highlightText": "",
+      "activated": false,
+      "videoLink": "",
+      "audioBrochureText": "",
+      "realmName": "equipment",
+      "highlightIcon": "fa fa-bookmark",
+      "incentive": "",
+      "nebulousId": {
+        "equipment": null
+      },
+      "locationId": 254
+    },
+    "body": {
+      "cab": {"desc":"testing"},
+      "color": {"desc":"this is color"},
+      "doors": {"desc":"4 doors"},
+      "exteriorColor": "",
+      "interiorColor": "",
+      "treadDepth": {
+        "desc": ""
+      },
+      "maxHeight": {
+        "desc": ""
+      },
+      "maxWidth": {
+        "desc": ""
+      },
+      "maxLength": {
+        "desc": ""
+      }
+    },
+    "operational": {
+      "suspension": {
+        "desc": ""
+      },
+      "tires": {
+        "desc": ""
+      },
+      "numberOfRearAxles": {
+        "desc": ""
+      },
+      "axles": {
+        "desc": ""
+      },
+      "rearAxles": {
+        "desc": ""
+      },
+      "cabToAxle": {
+        "desc": ""
+      },
+      "frontAxle": {
+        "desc": ""
+      },
+      "rearAxle": {
+        "desc": ""
+      }
+    },
+    "dimensions": {
+      "wheelbase": {
+        "desc": ""
+      },
+      "weight": {
+        "desc": ""
+      },
+      "turningRadius": {
+        "desc": ""
+      }
+    },
+    "engine": {
+      "engineMake": {
+        "desc": ""
+      },
+      "engineModel": {
+        "desc": ""
+      },
+      "engineSize": {
+        "desc": ""
+      },
+      "brakes": {
+        "desc": ""
+      },
+      "horsepower": {
+        "desc": ""
+      },
+      "maxHorsePower": {
+        "desc": ""
+      },
+      "maxRpm": {
+        "desc": ""
+      },
+      "maxTorque": {
+        "desc": ""
+      },
+      "fuelTankSize": {
+        "desc": ""
+      },
+      "transmissionManufacturer": {
+        "desc": ""
+      },
+      "transmissionSpeed": {
+        "desc": ""
+      },
+      "fuelType": {
+        "desc": ""
+      },
+      "cylinders": {
+        "desc": ""
+      },
+      "capacity": {
+        "desc": ""
+      },
+      "mileage": {
+        "desc": ""
+      }
+    },
+    "others": {
+      "hours": {
+        "desc": ""
+      },
+      "attachmentOne": "",
+      "attachmentTwo": "",
+      "attachmentThree": "",
+      "attachmentFour": ""
+    },
+    "images": [],
+    "marketplaceOptions": [],
+    "updated_at": "2020-01-12 07:20:13",
+    "created_at": "2020-01-12 06:42:00",
+    "dealer": {
+      "id": 9052,
+      "sms_lead_gateway_number": null,
+      "sms_lead_target_number": null,
+      "websites": [
+        {
+          "id": 174,
+          "uuid": null,
+          "dealer_id": 9052,
+          "created_by": 1,
+          "domain": "traderequipment.com",
+          "title": "Trader Equipment",
+          "status": "active",
+          "created_at": "2020-01-09 18:45:38",
+          "updated_at": "2020-01-09 20:11:50",
+          "analytics_id": "UA-155927945-1"
+        }
+      ],
+      "products": []
+    },
+    "highlightImage": null,
+    "location": {
+      "id": 254,
+      "dealer_id": 9052,
+      "name": "Trader Equipment",
+      "address1": "999 Waterside Dr.",
+      "address2": "",
+      "city": "Norfolk",
+      "state": "VA",
+      "zip": "23510",
+      "phone": "(757) 448-4627",
+      "toll_free": null,
+      "fax": "",
+      "email": "info@traderequipment.com",
+      "created_at": "2020-01-09 18:44:46",
+      "updated_at": "2020-01-09 18:44:46"
+    }
+  }
